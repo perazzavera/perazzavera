@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Vera!
 
-💻 Front-end Developer | 🌱 Apaixonada por design, código limpo e interfaces bonitas  
+💻 Front-end Developer | ✨ Apaixonada por design, código limpo e interfaces bonitas  
 
 ---
 
